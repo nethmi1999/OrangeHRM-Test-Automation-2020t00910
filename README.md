@@ -13,11 +13,15 @@ Before running the tests, ensure you have the following installed:
 
 ### 1.Clone the repository:
 
-* `git clone https://github.com/nethmi1999/OrangeHRM-Test-Automation-2020t00910.git`
+```bash
+   git clone https://github.com/nethmi1999/OrangeHRM-Test-Automation-2020t00910.git
+   ```
 
 ### 2.Install the required dependencies:
 
-* `pip install -r requirements.txt`
+```bash
+   pip install -r requirements.txt
+   ```
 
 ## Configuration
 
@@ -30,7 +34,9 @@ The application configuration is located in `Config.py`. Update the following va
 
 ## Running the Tests
 
-* `pytest TestCases/TestOrangeHRM.py`
+```bash
+   pytest TestCases/TestOrangeHRM.py
+   ```
 
 #### Logs
 
@@ -42,7 +48,7 @@ OrangeHRM-Test-Automation-2020t00910/
 ├── Logs/                    # Log files (auto-generated)
 ├── PageObjects/             # Page Object Model classes
 ├── TestCases/               # Test case scripts
-├── Utilities/               # Utility modules (e.g., Logger)
+├── Utilities/               # Utility modules (e.g:- Logger)
 ├── Config.py                # Configuration file
 ├── conftest.py              # Pytest fixtures
 ├── README.md                # Project documentation
