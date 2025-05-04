@@ -1,0 +1,12 @@
+2025-05-02 16:52:15 - INFO - Starting test_01_check_login_title
+2025-05-02 16:52:27 - INFO - SUCCESS: Login page title is correct: OrangeHRM [2025-05-02 16:52:27]
+2025-05-02 16:52:27 - INFO - Starting test_02_user_login
+2025-05-02 16:52:42 - INFO - SUCCESS: Login successful and dashboard loaded [2025-05-02 16:52:42]
+2025-05-02 16:52:42 - INFO - Starting test_03_leave_check
+2025-05-02 16:52:57 - INFO - Clicked on Leave menu
+2025-05-02 16:52:59 - INFO - Clicked on My Leave tab
+2025-05-02 16:53:00 - INFO - My Leave page loaded
+2025-05-02 16:53:00 - INFO - Leave page fully loaded
+2025-05-02 16:53:05 - INFO - SUCCESS: Leave page loaded and verified [2025-05-02 16:53:05]
+2025-05-02 16:53:05 - INFO - Starting test_04_user_logout
+2025-05-02 16:53:22 - INFO - SUCCESS: Logout successful and login page displayed [2025-05-02 16:53:22]
