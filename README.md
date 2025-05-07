@@ -16,13 +16,17 @@ Before running the tests, ensure you have the following installed:
 ```bash
    git clone https://github.com/nethmi1999/OrangeHRM-Test-Automation-2020t00910.git
    ```
-
-### 2.Install the required dependencies:
+### 2.Create a virtual environment (optional)
+```bash
+   python -m venv venv
+   venv\Scripts\activate  
+   ```
+### 3.Install the required dependencies:
 
 ```bash
    pip install -r requirements.txt
    ```
-### 3.Install the required dependencies one by one(If necessary)
+### 4.Install the required dependencies one by one(If necessary)
 
 ```bash
    pip install selenium
