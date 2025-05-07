@@ -20,6 +20,11 @@ Before running the tests, ensure you have the following installed:
 ### 2.Install the required dependencies:
 
 ```bash
+   pip install -r requirements.txt
+   ```
+### 3.Install the required dependencies one by one(If necessary)
+
+```bash
    pip install selenium
    pip install pytest
    pip install pytest-html
