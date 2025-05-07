@@ -20,7 +20,11 @@ Before running the tests, ensure you have the following installed:
 ### 2.Install the required dependencies:
 
 ```bash
-   pip install -r requirements.txt
+   pip install selenium
+   pip install pytest
+   pip install pytest-html
+   pip install pytest-xdist
+   pip install chromedriver-autoinstaller
    ```
 
 ## Configuration
